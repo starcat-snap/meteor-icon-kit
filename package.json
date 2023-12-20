@@ -1,15 +1,15 @@
 {
-  "name": "@shopware-ag/meteor-icon-kit",
+  "name": "@snap-admin/meteor-icon-kit",
   "version": "5.2.0",
-  "description": "An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with Shopware's product language",
+  "description": "An icon library and toolkit that follows a minimal, yet highly expressive style perfectly aligned with SnapAdmin's product language",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/shopware/meteor-icon-kit.git"
+    "url": "git+ssh://git@github.com/starcat-snap/meteor-icon-kit.git"
   },
   "keywords": [
     "svg",
-    "shopware",
+    "snap",
     "icons"
   ],
   "scripts": {
@@ -30,9 +30,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shopware/meteor-icon-kit/issues"
+    "url": "https://github.com/starcat-snap/meteor-icon-kit/issues"
   },
-  "homepage": "https://github.com/shopware/meteor-icon-kit#readme",
+  "homepage": "https://github.com/starcat-snap/meteor-icon-kit#readme",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/cli-progress": "^3.9.2",

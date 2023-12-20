@@ -2,7 +2,7 @@
   <SwagLanding>
     <template #title>Meteor icon kit</template>
     <template #description>An icon library and toolkit that follows a minimal, yet highly expressive style perfectly
-      aligned with Shopware's product language.
+      aligned with SnapAdmin's product language.
     </template>
   </SwagLanding>
 
